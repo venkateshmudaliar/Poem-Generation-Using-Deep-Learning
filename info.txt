@@ -1,2 +1,0 @@
-This is commit coming from vscode to git for poem generation
-This is second commit
